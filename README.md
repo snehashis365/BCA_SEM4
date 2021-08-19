@@ -1,2 +1,1 @@
-# BCA_SEM4
-All the assignmnets
+# All the assignmnets thanks to GitHub Copilot
